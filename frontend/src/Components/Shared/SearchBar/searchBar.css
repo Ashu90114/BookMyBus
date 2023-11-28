@@ -1,0 +1,49 @@
+.searchContainer{
+    position: relative;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+
+
+.homeSearch{
+    height: 45px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0px;
+    border-radius: 15px;
+    position: absolute;
+    bottom: -200px;
+    z-index: 40;
+}
+
+.homeSearchItem{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+
+.homeSearchInput{
+    font-size: 15px;
+}
+
+.homeSearchText{
+    cursor: pointer;
+}
+
+.fromIcon{
+    height: 20px;
+}
+
+.searchBtn{
+    height: 15px;
+    align-items: center;
+    display: flex;
+    font-size: 15px;
+}
+
+.date{
+    font-size: 15px;
+}

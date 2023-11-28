@@ -1,0 +1,10 @@
+.offers-section {
+    padding: 0;
+    text-align: center;
+    font-size: 2rem;
+    padding: 0 3rem;
+}
+
+.offer-container {
+    display: flex;
+}
